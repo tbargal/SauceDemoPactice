@@ -1,0 +1,138 @@
+2022-02-17 01:14:05,817  INFO [main] MavenSauceDemoArtifact:47 - Browser Opened
+2022-02-17 01:14:16,155  INFO [main] MavenSauceDemoArtifact:58 - Signed In
+2022-02-17 01:14:44,399  INFO [main] MavenSauceDemoArtifact:71 - Signed Out
+2022-02-17 01:14:45,653  INFO [main] MavenSauceDemoArtifact:47 - Browser Opened
+2022-02-17 01:14:55,895  INFO [main] MavenSauceDemoArtifact:58 - Signed In
+2022-02-17 01:15:02,323  INFO [main] MavenSauceDemoArtifact:47 - Browser Opened
+2022-02-17 01:15:12,558  INFO [main] MavenSauceDemoArtifact:58 - Signed In
+2022-02-17 01:15:20,658  INFO [main] MavenSauceDemoArtifact:71 - Signed Out
+2022-02-17 01:16:57,071  INFO [main] MavenSauceDemoArtifact:47 - Browser Opened
+2022-02-17 01:17:07,360  INFO [main] MavenSauceDemoArtifact:58 - Signed In
+2022-02-17 01:17:37,588  INFO [main] MavenSauceDemoArtifact:71 - Signed Out
+2022-02-17 01:17:40,436  INFO [main] MavenSauceDemoArtifact:47 - Browser Opened
+2022-02-17 01:17:50,677  INFO [main] MavenSauceDemoArtifact:58 - Signed In
+2022-02-17 01:17:57,455  INFO [main] MavenSauceDemoArtifact:47 - Browser Opened
+2022-02-17 01:18:07,700  INFO [main] MavenSauceDemoArtifact:58 - Signed In
+2022-02-17 01:18:15,807  INFO [main] MavenSauceDemoArtifact:71 - Signed Out
+2022-02-21 20:31:15,790  INFO [main] MavenSauceDemoArtifact:47 - Browser Opened
+2022-02-21 20:31:26,500  INFO [main] MavenSauceDemoArtifact:58 - Signed In
+2022-02-21 20:31:56,950  INFO [main] MavenSauceDemoArtifact:71 - Signed Out
+2022-02-21 20:33:54,358  INFO [main] MavenSauceDemoArtifact:47 - Browser Opened
+2022-02-21 20:34:05,000  INFO [main] MavenSauceDemoArtifact:58 - Signed In
+2022-02-21 20:38:21,968  INFO [main] MavenSauceDemoArtifact:47 - Browser Opened
+2022-02-21 20:38:32,351  INFO [main] MavenSauceDemoArtifact:58 - Signed In
+2022-02-21 20:38:40,610  INFO [main] MavenSauceDemoArtifact:71 - Signed Out
+2022-02-21 20:54:37,517  INFO [main] MavenSauceDemoArtifact:47 - Browser Opened
+2022-02-21 21:27:06,323  INFO [main] MavenSauceDemoArtifact:47 - Browser Opened
+2022-02-21 21:27:17,101  INFO [main] MavenSauceDemoArtifact:58 - Signed In
+2022-02-21 21:27:27,589  INFO [main] MavenSauceDemoArtifact:71 - Signed Out
+2022-02-21 21:27:59,408  INFO [main] MavenSauceDemoArtifact:47 - Browser Opened
+2022-02-21 21:28:09,895  INFO [main] MavenSauceDemoArtifact:58 - Signed In
+2022-02-21 21:29:21,817  INFO [main] MavenSauceDemoArtifact:47 - Browser Opened
+2022-02-21 21:29:32,492  INFO [main] MavenSauceDemoArtifact:58 - Signed In
+2022-02-21 21:29:40,750  INFO [main] MavenSauceDemoArtifact:71 - Signed Out
+2022-02-21 22:45:40,344  INFO [main] MavenSauceDemoArtifact:48 - Browser Opened
+2022-02-21 22:45:40,625  INFO [main] MavenSauceDemoArtifact:59 - username Entered
+2022-02-21 22:45:45,742  INFO [main] MavenSauceDemoArtifact:61 - Password entered
+2022-02-21 22:45:50,903  INFO [main] MavenSauceDemoArtifact:63 - Entered
+2022-02-21 22:45:50,903  INFO [main] MavenSauceDemoArtifact:64 - Signed In
+2022-02-21 22:45:53,165  INFO [main] MavenSauceDemoArtifact:24 - Added to cart logger
+2022-02-21 22:46:01,398  INFO [main] MavenSauceDemoArtifact:78 - Signed Out
+2022-02-21 22:46:15,252  INFO [main] MavenSauceDemoArtifact:48 - Browser Opened
+2022-02-21 22:46:15,421  INFO [main] MavenSauceDemoArtifact:59 - username Entered
+2022-02-21 22:46:20,562  INFO [main] MavenSauceDemoArtifact:61 - Password entered
+2022-02-21 22:46:25,759  INFO [main] MavenSauceDemoArtifact:63 - Entered
+2022-02-21 22:46:25,760  INFO [main] MavenSauceDemoArtifact:64 - Signed In
+2022-02-21 22:46:30,775  INFO [main] MavenSauceDemoArtifact:23 - account logged out logger
+2022-02-21 22:46:39,021  INFO [main] MavenSauceDemoArtifact:78 - Signed Out
+2022-02-21 22:47:04,985  INFO [main] MavenSauceDemoArtifact:48 - Browser Opened
+2022-02-21 22:47:05,110  INFO [main] MavenSauceDemoArtifact:59 - username Entered
+2022-02-21 22:47:10,227  INFO [main] MavenSauceDemoArtifact:61 - Password entered
+2022-02-21 22:47:15,380  INFO [main] MavenSauceDemoArtifact:63 - Entered
+2022-02-21 22:47:15,380  INFO [main] MavenSauceDemoArtifact:64 - Signed In
+2022-02-21 22:47:15,386  INFO [main] MavenSauceDemoArtifact:21 - login verified
+2022-02-21 22:47:23,604  INFO [main] MavenSauceDemoArtifact:78 - Signed Out
+2022-02-21 22:53:18,106  INFO [main] MavenSauceDemoArtifact:48 - Browser Opened
+2022-02-21 22:53:18,332  INFO [main] MavenSauceDemoArtifact:59 - username Entered
+2022-02-21 22:53:23,447  INFO [main] MavenSauceDemoArtifact:61 - Password entered
+2022-02-21 22:53:28,634  INFO [main] MavenSauceDemoArtifact:63 - Entered
+2022-02-21 22:53:28,634  INFO [main] MavenSauceDemoArtifact:64 - Signed In
+2022-02-21 22:53:30,851  INFO [main] MavenSauceDemoArtifact:24 - Added to cart logger
+2022-02-21 22:53:39,096  INFO [main] MavenSauceDemoArtifact:78 - Signed Out
+2022-02-21 22:53:49,127  INFO [main] MavenSauceDemoArtifact:48 - Browser Opened
+2022-02-21 22:53:49,267  INFO [main] MavenSauceDemoArtifact:59 - username Entered
+2022-02-21 22:53:54,359  INFO [main] MavenSauceDemoArtifact:61 - Password entered
+2022-02-21 22:53:59,548  INFO [main] MavenSauceDemoArtifact:63 - Entered
+2022-02-21 22:53:59,548  INFO [main] MavenSauceDemoArtifact:64 - Signed In
+2022-02-21 22:54:04,570  INFO [main] MavenSauceDemoArtifact:23 - account logged out logger
+2022-02-21 22:54:12,796  INFO [main] MavenSauceDemoArtifact:78 - Signed Out
+2022-02-21 22:54:35,013  INFO [main] MavenSauceDemoArtifact:48 - Browser Opened
+2022-02-21 22:54:35,178  INFO [main] MavenSauceDemoArtifact:59 - username Entered
+2022-02-21 22:54:40,332  INFO [main] MavenSauceDemoArtifact:61 - Password entered
+2022-02-21 22:54:45,487  INFO [main] MavenSauceDemoArtifact:63 - Entered
+2022-02-21 22:54:45,488  INFO [main] MavenSauceDemoArtifact:64 - Signed In
+2022-02-21 22:54:45,493  INFO [main] MavenSauceDemoArtifact:21 - login verified
+2022-02-21 22:54:53,729  INFO [main] MavenSauceDemoArtifact:78 - Signed Out
+2022-02-21 23:02:02,429  INFO [main] MavenSauceDemoArtifact:48 - Browser Opened
+2022-02-21 23:02:02,639  INFO [main] MavenSauceDemoArtifact:59 - username Entered
+2022-02-21 23:02:07,788  INFO [main] MavenSauceDemoArtifact:61 - Password entered
+2022-02-21 23:02:12,906  INFO [main] MavenSauceDemoArtifact:63 - Entered
+2022-02-21 23:02:12,906  INFO [main] MavenSauceDemoArtifact:64 - Signed In
+2022-02-21 23:02:15,143  INFO [main] MavenSauceDemoArtifact:24 - Added to cart logger
+2022-02-21 23:02:23,376  INFO [main] MavenSauceDemoArtifact:78 - Signed Out
+2022-02-21 23:02:41,206  INFO [main] MavenSauceDemoArtifact:48 - Browser Opened
+2022-02-21 23:02:41,350  INFO [main] MavenSauceDemoArtifact:59 - username Entered
+2022-02-21 23:02:46,443  INFO [main] MavenSauceDemoArtifact:61 - Password entered
+2022-02-21 23:02:51,606  INFO [main] MavenSauceDemoArtifact:63 - Entered
+2022-02-21 23:02:51,607  INFO [main] MavenSauceDemoArtifact:64 - Signed In
+2022-02-21 23:02:56,626  INFO [main] MavenSauceDemoArtifact:23 - account logged out logger
+2022-02-21 23:03:04,843  INFO [main] MavenSauceDemoArtifact:78 - Signed Out
+2022-02-21 23:03:26,106  INFO [main] MavenSauceDemoArtifact:48 - Browser Opened
+2022-02-21 23:03:26,215  INFO [main] MavenSauceDemoArtifact:59 - username Entered
+2022-02-21 23:03:31,282  INFO [main] MavenSauceDemoArtifact:61 - Password entered
+2022-02-21 23:03:36,395  INFO [main] MavenSauceDemoArtifact:63 - Entered
+2022-02-21 23:03:36,396  INFO [main] MavenSauceDemoArtifact:64 - Signed In
+2022-02-21 23:03:36,402  INFO [main] MavenSauceDemoArtifact:21 - login verified
+2022-02-21 23:03:44,641  INFO [main] MavenSauceDemoArtifact:78 - Signed Out
+2022-02-21 23:04:23,020  INFO [main] MavenSauceDemoArtifact:48 - Browser Opened
+2022-02-21 23:04:23,267  INFO [main] MavenSauceDemoArtifact:59 - username Entered
+2022-02-21 23:04:28,392  INFO [main] MavenSauceDemoArtifact:61 - Password entered
+2022-02-21 23:04:33,641  INFO [main] MavenSauceDemoArtifact:63 - Entered
+2022-02-21 23:04:33,641  INFO [main] MavenSauceDemoArtifact:64 - Signed In
+2022-02-21 23:04:35,846  INFO [main] MavenSauceDemoArtifact:24 - Added to cart logger
+2022-02-21 23:04:44,067  INFO [main] MavenSauceDemoArtifact:78 - Signed Out
+2022-02-21 23:04:50,613  INFO [main] MavenSauceDemoArtifact:48 - Browser Opened
+2022-02-21 23:04:50,712  INFO [main] MavenSauceDemoArtifact:59 - username Entered
+2022-02-21 23:04:55,822  INFO [main] MavenSauceDemoArtifact:61 - Password entered
+2022-02-21 23:05:00,995  INFO [main] MavenSauceDemoArtifact:63 - Entered
+2022-02-21 23:05:00,996  INFO [main] MavenSauceDemoArtifact:64 - Signed In
+2022-02-21 23:05:06,025  INFO [main] MavenSauceDemoArtifact:23 - account logged out logger
+2022-02-21 23:05:14,277  INFO [main] MavenSauceDemoArtifact:78 - Signed Out
+2022-02-21 23:05:19,700  INFO [main] MavenSauceDemoArtifact:48 - Browser Opened
+2022-02-21 23:05:19,822  INFO [main] MavenSauceDemoArtifact:59 - username Entered
+2022-02-21 23:05:24,952  INFO [main] MavenSauceDemoArtifact:61 - Password entered
+2022-02-21 23:05:30,139  INFO [main] MavenSauceDemoArtifact:63 - Entered
+2022-02-21 23:05:30,140  INFO [main] MavenSauceDemoArtifact:64 - Signed In
+2022-02-21 23:05:30,140  INFO [main] MavenSauceDemoArtifact:21 - login verified
+2022-02-21 23:05:38,385  INFO [main] MavenSauceDemoArtifact:78 - Signed Out
+2022-02-22 00:42:47,318  INFO [main] MavenSauceDemoArtifact:48 - Browser Opened
+2022-02-22 00:42:47,579  INFO [main] MavenSauceDemoArtifact:59 - username Entered
+2022-02-22 00:42:52,644  INFO [main] MavenSauceDemoArtifact:61 - Password entered
+2022-02-22 00:42:57,790  INFO [main] MavenSauceDemoArtifact:63 - Entered
+2022-02-22 00:42:57,791  INFO [main] MavenSauceDemoArtifact:64 - Signed In
+2022-02-22 00:43:00,036  INFO [main] MavenSauceDemoArtifact:24 - Added to cart logger
+2022-02-22 00:43:08,251  INFO [main] MavenSauceDemoArtifact:78 - Signed Out
+2022-02-22 00:43:12,256  INFO [main] MavenSauceDemoArtifact:48 - Browser Opened
+2022-02-22 00:43:12,404  INFO [main] MavenSauceDemoArtifact:59 - username Entered
+2022-02-22 00:43:17,562  INFO [main] MavenSauceDemoArtifact:61 - Password entered
+2022-02-22 00:43:22,695  INFO [main] MavenSauceDemoArtifact:63 - Entered
+2022-02-22 00:43:22,697  INFO [main] MavenSauceDemoArtifact:64 - Signed In
+2022-02-22 00:43:27,726  INFO [main] MavenSauceDemoArtifact:23 - account logged out logger
+2022-02-22 00:43:35,930  INFO [main] MavenSauceDemoArtifact:78 - Signed Out
+2022-02-22 00:43:39,033  INFO [main] MavenSauceDemoArtifact:48 - Browser Opened
+2022-02-22 00:43:39,191  INFO [main] MavenSauceDemoArtifact:59 - username Entered
+2022-02-22 00:43:44,273  INFO [main] MavenSauceDemoArtifact:61 - Password entered
+2022-02-22 00:43:49,436  INFO [main] MavenSauceDemoArtifact:63 - Entered
+2022-02-22 00:43:49,437  INFO [main] MavenSauceDemoArtifact:64 - Signed In
+2022-02-22 00:43:49,444  INFO [main] MavenSauceDemoArtifact:21 - login verified
+2022-02-22 00:43:57,657  INFO [main] MavenSauceDemoArtifact:78 - Signed Out

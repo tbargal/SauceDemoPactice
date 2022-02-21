@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Added to cart reporter]]>
+    </line>
+    <line>
+      <![CDATA[Logout Success Reporter]]>
+    </line>
+    <line>
+      <![CDATA[Login Success Reporter]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-02-22T00:42:40 IST" name="Suite" finished-at="2022-02-22T00:43:57 IST" duration-ms="77338">
+    <groups>
+    </groups>
+    <test started-at="2022-02-22T00:42:40 IST" name="ChromeTest" finished-at="2022-02-22T00:43:57 IST" duration-ms="77338">
+      <class name="com.SauceDemo.TestClass.BasicAddtoCart">
+        <test-method is-config="true" signature="TestNGMethod(java.lang.String)[pri:0, instance:com.SauceDemo.TestClass.BasicAddtoCart@662b4c69]" started-at="2022-02-22T00:42:40 IST" name="TestNGMethod" finished-at="2022-02-22T00:42:47 IST" duration-ms="6804" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNGMethod -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.SauceDemo.TestClass.BasicAddtoCart@662b4c69]" started-at="2022-02-22T00:42:47 IST" name="login" finished-at="2022-02-22T00:42:57 IST" duration-ms="10442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="AddToCart()[pri:2, instance:com.SauceDemo.TestClass.BasicAddtoCart@662b4c69]" started-at="2022-02-22T00:42:57 IST" name="AddToCart" finished-at="2022-02-22T00:43:00 IST" duration-ms="2244" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Added to cart reporter]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method is-config="true" signature="LogOut()[pri:0, instance:com.SauceDemo.TestClass.BasicAddtoCart@662b4c69]" started-at="2022-02-22T00:43:00 IST" name="LogOut" finished-at="2022-02-22T00:43:08 IST" duration-ms="8509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+      </class> <!-- com.SauceDemo.TestClass.BasicAddtoCart -->
+      <class name="com.SauceDemo.TestClass.BasicLogOut">
+        <test-method is-config="true" signature="TestNGMethod(java.lang.String)[pri:0, instance:com.SauceDemo.TestClass.BasicLogOut@bd4dc25]" started-at="2022-02-22T00:43:08 IST" name="TestNGMethod" finished-at="2022-02-22T00:43:12 IST" duration-ms="3697" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNGMethod -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.SauceDemo.TestClass.BasicLogOut@bd4dc25]" started-at="2022-02-22T00:43:12 IST" name="login" finished-at="2022-02-22T00:43:22 IST" duration-ms="10440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="LogOut1()[pri:3, instance:com.SauceDemo.TestClass.BasicLogOut@bd4dc25]" started-at="2022-02-22T00:43:22 IST" name="LogOut1" finished-at="2022-02-22T00:43:27 IST" duration-ms="5036" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout Success Reporter]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LogOut1 -->
+        <test-method is-config="true" signature="LogOut()[pri:0, instance:com.SauceDemo.TestClass.BasicLogOut@bd4dc25]" started-at="2022-02-22T00:43:27 IST" name="LogOut" finished-at="2022-02-22T00:43:36 IST" duration-ms="8374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+      </class> <!-- com.SauceDemo.TestClass.BasicLogOut -->
+      <class name="com.SauceDemo.TestClass.BasicVerifyLogin">
+        <test-method is-config="true" signature="TestNGMethod(java.lang.String)[pri:0, instance:com.SauceDemo.TestClass.BasicVerifyLogin@25084a1e]" started-at="2022-02-22T00:43:36 IST" name="TestNGMethod" finished-at="2022-02-22T00:43:39 IST" duration-ms="2923" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNGMethod -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.SauceDemo.TestClass.BasicVerifyLogin@25084a1e]" started-at="2022-02-22T00:43:39 IST" name="login" finished-at="2022-02-22T00:43:49 IST" duration-ms="10402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="VerifyLogin()[pri:1, instance:com.SauceDemo.TestClass.BasicVerifyLogin@25084a1e]" started-at="2022-02-22T00:43:49 IST" name="VerifyLogin" finished-at="2022-02-22T00:43:49 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Success Reporter]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyLogin -->
+        <test-method is-config="true" signature="LogOut()[pri:0, instance:com.SauceDemo.TestClass.BasicVerifyLogin@25084a1e]" started-at="2022-02-22T00:43:49 IST" name="LogOut" finished-at="2022-02-22T00:43:57 IST" duration-ms="8392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+      </class> <!-- com.SauceDemo.TestClass.BasicVerifyLogin -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
